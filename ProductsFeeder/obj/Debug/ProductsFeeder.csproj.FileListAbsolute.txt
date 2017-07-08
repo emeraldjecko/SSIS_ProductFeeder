@@ -1,0 +1,40 @@
+C:\LaminarProjects\ProductsFeeder\ProductsFeeder\bin\Debug\ProductsFeeder.exe.config
+C:\LaminarProjects\ProductsFeeder\ProductsFeeder\bin\Debug\ProductsFeeder.exe
+C:\LaminarProjects\ProductsFeeder\ProductsFeeder\bin\Debug\ProductsFeeder.pdb
+C:\LaminarProjects\ProductsFeeder\ProductsFeeder\bin\Debug\EntityFramework.dll
+C:\LaminarProjects\ProductsFeeder\ProductsFeeder\bin\Debug\EntityFramework.SqlServer.dll
+C:\LaminarProjects\ProductsFeeder\ProductsFeeder\bin\Debug\EntityFramework.xml
+C:\LaminarProjects\ProductsFeeder\ProductsFeeder\bin\Debug\EntityFramework.SqlServer.xml
+C:\LaminarProjects\ProductsFeeder\ProductsFeeder\obj\Debug\ProductsFeeder.csprojResolveAssemblyReference.cache
+C:\LaminarProjects\ProductsFeeder\ProductsFeeder\obj\Debug\ProductsFeeder.exe
+C:\LaminarProjects\ProductsFeeder\ProductsFeeder\obj\Debug\ProductsFeeder.pdb
+F:\PeopleSource\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Debug\ProductsFeeder.exe.config
+F:\PeopleSource\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\obj\Debug\ProductsFeeder.exe
+F:\PeopleSource\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\obj\Debug\ProductsFeeder.pdb
+F:\PeopleSource\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Debug\ProductsFeeder.exe
+F:\PeopleSource\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Debug\ProductsFeeder.pdb
+F:\PeopleSource\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Debug\EntityFramework.dll
+F:\PeopleSource\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Debug\EntityFramework.SqlServer.dll
+F:\PeopleSource\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Debug\EntityFramework.xml
+F:\PeopleSource\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Debug\EntityFramework.SqlServer.xml
+E:\ThieuCompleteCode\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Debug\ProductsFeeder.exe.config
+E:\ThieuCompleteCode\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\obj\Debug\ProductsFeeder.exe
+E:\ThieuCompleteCode\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\obj\Debug\ProductsFeeder.pdb
+E:\ThieuCompleteCode\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Debug\ProductsFeeder.exe
+E:\ThieuCompleteCode\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Debug\ProductsFeeder.pdb
+E:\ThieuCompleteCode\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Debug\EntityFramework.dll
+E:\ThieuCompleteCode\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Debug\EntityFramework.SqlServer.dll
+E:\ThieuCompleteCode\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Debug\EntityFramework.xml
+E:\ThieuCompleteCode\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Debug\EntityFramework.SqlServer.xml
+C:\emeraldjecko\PS\ThieuCompleteCode\ThieuCompleteCode\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Debug\ProductsFeeder.exe.config
+C:\emeraldjecko\PS\ThieuCompleteCode\ThieuCompleteCode\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\obj\Debug\ProductsFeeder.exe
+C:\emeraldjecko\PS\ThieuCompleteCode\ThieuCompleteCode\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\obj\Debug\ProductsFeeder.pdb
+D:\emeraldjecko\NEW PROJECT\CODES\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Debug\ProductsFeeder.exe.config
+D:\emeraldjecko\NEW PROJECT\CODES\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\obj\Debug\ProductsFeeder.exe
+D:\emeraldjecko\NEW PROJECT\CODES\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\obj\Debug\ProductsFeeder.pdb
+D:\emeraldjecko\NEW PROJECT\CODES\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Debug\ProductsFeeder.exe
+D:\emeraldjecko\NEW PROJECT\CODES\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Debug\ProductsFeeder.pdb
+D:\emeraldjecko\NEW PROJECT\CODES\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Debug\EntityFramework.dll
+D:\emeraldjecko\NEW PROJECT\CODES\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Debug\EntityFramework.SqlServer.dll
+D:\emeraldjecko\NEW PROJECT\CODES\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Debug\EntityFramework.xml
+D:\emeraldjecko\NEW PROJECT\CODES\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Debug\EntityFramework.SqlServer.xml

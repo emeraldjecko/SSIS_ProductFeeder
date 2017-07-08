@@ -1,0 +1,18 @@
+F:\PeopleSource\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Release\ProductsFeeder.exe.config
+F:\PeopleSource\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Release\ProductsFeeder.exe
+F:\PeopleSource\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Release\ProductsFeeder.pdb
+F:\PeopleSource\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Release\EntityFramework.dll
+F:\PeopleSource\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Release\EntityFramework.SqlServer.dll
+F:\PeopleSource\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Release\EntityFramework.xml
+F:\PeopleSource\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Release\EntityFramework.SqlServer.xml
+F:\PeopleSource\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\obj\Release\ProductsFeeder.exe
+F:\PeopleSource\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\obj\Release\ProductsFeeder.pdb
+D:\emeraldjecko\NEW PROJECT\CODES\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Release\ProductsFeeder.exe.config
+D:\emeraldjecko\NEW PROJECT\CODES\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\obj\Release\ProductsFeeder.exe
+D:\emeraldjecko\NEW PROJECT\CODES\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\obj\Release\ProductsFeeder.pdb
+D:\emeraldjecko\NEW PROJECT\CODES\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Release\ProductsFeeder.exe
+D:\emeraldjecko\NEW PROJECT\CODES\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Release\ProductsFeeder.pdb
+D:\emeraldjecko\NEW PROJECT\CODES\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Release\EntityFramework.dll
+D:\emeraldjecko\NEW PROJECT\CODES\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Release\EntityFramework.SqlServer.dll
+D:\emeraldjecko\NEW PROJECT\CODES\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Release\EntityFramework.xml
+D:\emeraldjecko\NEW PROJECT\CODES\ProductsFeeder_SourceCode\ProductsFeeder\ProductsFeeder\bin\Release\EntityFramework.SqlServer.xml
