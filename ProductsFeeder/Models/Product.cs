@@ -36,5 +36,8 @@ namespace ProductsFeeder.Models
         public DateTime? DateCreated { get; set; }
         public double? Cost { get; set; }
         public string eBayItemID { get; set; }
+        public double? LocalizedCustomsDescription { get; set; }
+        public int? HarmonizedTariffCode { get; set; }
+
     }
 }

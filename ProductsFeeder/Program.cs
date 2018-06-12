@@ -33,10 +33,12 @@ namespace ProductsFeeder
             foreach (var p in products)
             {
                 var product = product2.FirstOrDefault(fb => p.RealSKU.Contains(fb.SKU));
-              if (product != null) 
-              {
-                  p.Cost= product.Cost;
-              }
+                if (product != null) 
+                {
+                    p.Cost= product.Cost;
+                    p.LocalizedCustomsDescription = product.LocalizedCustomsDescription;
+                    p.HarmonizedTariffCode = product.HarmonizedTariffCode;
+                }
             }
                return products;
         }
@@ -107,6 +109,9 @@ namespace ProductsFeeder
             int colSKU = 0;
             int colCost = 0;
             int counter = 0;
+            int colLocalizedCustomsDescription = 0;
+            int colHarmonizedTariffCode = 0;
+
 
             try
             {
@@ -131,6 +136,15 @@ namespace ProductsFeeder
                         {
                             colCost = counter;
                         }
+                        if (column == "Localized Customs Description")
+                        {
+                            colLocalizedCustomsDescription = counter;
+                        }
+                        if (column == "Harmonized Tariff Code")
+                        {
+                            colHarmonizedTariffCode = counter;
+                        }
+
                         counter++;
                     }
                     while (!csvReader.EndOfData)
@@ -152,6 +166,8 @@ namespace ProductsFeeder
                             product.SKU = dataRow[colSKU].ToString();
 
                             product.Cost = string.IsNullOrEmpty(dataRow[colCost].ToString()) ? 0 : Convert.ToDouble(dataRow[colCost]);
+                            product.LocalizedCustomsDescription = string.IsNullOrEmpty(dataRow[colLocalizedCustomsDescription].ToString()) ? 0 : Convert.ToDouble(dataRow[colLocalizedCustomsDescription]);
+                            product.HarmonizedTariffCode = string.IsNullOrEmpty(dataRow[colHarmonizedTariffCode].ToString()) ? 0 : Convert.ToInt32(dataRow[colHarmonizedTariffCode]);
                             //}
 
                             listProducts.Add(product); 
@@ -206,6 +222,7 @@ namespace ProductsFeeder
             try
             {
 
+                ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
                 string url = ConfigurationManager.AppSettings["TeapplixRemote"].ToString(); 
                 HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
                 HttpWebResponse response = (HttpWebResponse)request.GetResponse();
